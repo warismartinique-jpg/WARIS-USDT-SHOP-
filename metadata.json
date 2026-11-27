@@ -1,0 +1,6 @@
+{
+  "name": "WARIS USDT SHOP",
+  "description": "Achetez vos USDT simplement, rapidement et en toute sécurité par Mobile Money en Afrique de l'Ouest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
